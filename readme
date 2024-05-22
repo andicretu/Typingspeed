@@ -1,0 +1,16 @@
+1. input the text to be measured;
+    a. store it in a string;
+    b. get its lenght;
+2. input the measured text:
+    a. start timer when a key is pressed in the input field;
+    b. store each character in a new string;
+    c. chech each entered letter if it matches with its correspondent from the first text.
+        i: if it matches: 
+                - color it green;
+                - count the matched letters;
+        ii: if it's different:
+                - color it red;
+                - count the mistake;
+4. stop timer when last letter is written;
+3. calculate and display the acuracy
+
